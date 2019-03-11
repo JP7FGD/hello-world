@@ -1,4 +1,4 @@
 # hello-world
-learnig/idea
+learning/idea
 student  
 Test
