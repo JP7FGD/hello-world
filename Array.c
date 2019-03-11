@@ -1,8 +1,10 @@
 #include <stdio.h>
+#include <string.h>
 
 main()
 {
     int i,a[10];
+    char st[10];
 
     for( i = 0; i <= 9; i++)
     {
@@ -12,5 +14,6 @@ main()
     {
         printf("%d\n",a[i]);
     }
-    
+    strcpy(st,"abcde");
+    printf("%s\n",st);
 }
