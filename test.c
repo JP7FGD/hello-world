@@ -5,7 +5,7 @@
 
 int main(void)
 {
-    printf("%d", 15+37);
+    printf("15と37の和は%dです。\n", 15+37);
 
     return 0;
 }
