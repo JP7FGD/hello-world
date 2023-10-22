@@ -3,3 +3,6 @@
 .vs/hello-world/v17/.wsuo
 .vs/slnx.sqlite
 .vs/VSWorkspaceState.json
+*.out
+.vscode/c_cpp_properties.json
+.vscode/tasks.json
